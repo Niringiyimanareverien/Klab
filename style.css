@@ -1,5 +1,6 @@
 div.container{
-text-align: top;
+text-align: right;
+padding-top: 2%;
 }
 ul.myul{
     text-align: top;
@@ -8,10 +9,31 @@ ul.myul{
 li{
     display: inline;
     padding-inline: 10px;
+    text-align: left;
+    padding-top: 10%;
 }
 body{
-    background-color: burlywood;
+    background-color: rgb(243, 208, 162);
 }
 h1{
-    text-align: right;
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 3%;
+}
+div.im{
+    
+    padding-top: 1%;
+    padding-left: 4%;
+}
+h1{
+    padding-top: 3%;
+}
+div.mine{
+    padding-left: 0%;
+    padding-bottom: 0%;
+   
+    font-size: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+
 }
